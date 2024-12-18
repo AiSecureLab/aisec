@@ -28,7 +28,6 @@ AI安全：涉及数学、大模型安全、AI对抗、AI安全、AI在网络安
 
 AiSec：专注于分享Ai安全、网络安全、网络攻防等内容，欢迎关注。
 
-
-
+![](https://github.com/AiSecureLab/aisec/blob/main/qrcode_for_aisec.jpg)
 
 感谢您的支持，祝您学习愉快！💻🔒
